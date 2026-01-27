@@ -19,12 +19,10 @@ Browse and search for events
 View event details and ticket availability
 Select seats and book tickets
 
-#Technologies Used
+Technologies Used
 Frontend: HTML, CSS, JavaScript
 Backend: Python (Flask / Django – optional)
 Database: SQLite / MySQL (optional)
 Version Control: Git & GitHub
 
-Booking confirmation
 
-Admin management of events and tickets
