@@ -25,4 +25,11 @@ Backend: Python (Flask / Django – optional)
 Database: SQLite / MySQL (optional)
 Version Control: Git & GitHub
 
+Future Enhancements
+Online payment integration
+Seat selection with visual layout
+Email/SMS ticket confirmation
+Recommendation system for events
+Mobile-friendly interface
+
 
