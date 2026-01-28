@@ -1,1 +1,44 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Environment variables (DB passwords, API keys)
+.env
+
+# Logs
+*.log
+
+# Database files (if using SQLite)
+*.sqlite3
+*.db
+
+# Uploaded files (tickets, PDFs, QR codes)
+uploads/
+media/
+
+# Generated tickets / reports
+tickets/
+reports/
+
+# Jupyter checkpoints (if used)
+.ipynb_checkpoints/
+
+# IDE / Editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build files
+build/
+dist/
+*.egg-info/
+
 
