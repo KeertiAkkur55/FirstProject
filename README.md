@@ -34,7 +34,7 @@ Technology Stack
 - Version Control: Git & GitHub
 - Tools: Pycharm
 
-Structure:
+Project Structure:
 
 online-ticket-booking-app/
 ├── app.py
@@ -51,4 +51,4 @@ online-ticket-booking-app/
 └── tickets.db
 
 
-## 📂 Project Structure
+
