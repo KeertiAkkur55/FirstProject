@@ -34,5 +34,21 @@ Technology Stack
 - Version Control: Git & GitHub
 - Tools: Pycharm
 
+Structure:
+
+online-ticket-booking-app/
+├── app.py
+├── README.md
+├── requirements.txt
+├── .gitignore
+├── templates/
+│ ├── index.html
+│ ├── seats.html
+│ └── booked.html
+├── static/
+│ └── style.css
+└── database/
+└── tickets.db
+
 
 ## 📂 Project Structure
