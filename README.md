@@ -1,35 +1,38 @@
-# Online Ticket Booking
+Online Ticket Booking Application
 
 Project Overview
-The Online Ticket Booking System is a web-based application designed to allow users to search for events, select seats, and book tickets online in a simple and efficient manner. The system aims to reduce manual booking efforts and provide a seamless experience for both customers and administrators.
+  This project is a simple online ticket booking application designed for beginners. The application allows users to select the tickets or seats they want to buy. The system stores the selected seats and displays a list of seats that have already been purchased.
 
-Project Goals
-Provide an easy-to-use platform for booking tickets online
-Allow users to view available events, dates, and seating options
-Enable secure and efficient ticket reservations
-Maintain booking records and event details
+The goal of this project is to focus on the basic logic of ticket booking without using complex features like online payment gateways or advanced seat maps.
 
-Target Users
-Customers: Users who want to browse events and book tickets online
-Administrators: Users who manage events, schedules, and ticket availability
+Project Objectives
+- Allow users to choose tickets or seats
+- Store selected ticket information
+- Display booked seats to users
+- Build a simple and easy-to-understand booking system
+- Practice basic web development concepts
 
-Key Features
-User registration and login
-Browse and search for events
-View event details and ticket availability
-Select seats and book tickets
+User Roles
+User
+- View available tickets or seats
+- Select one or more seats
+- Confirm ticket selection
+- View list of purchased seats
+ 
+Application Features
+- Display available seats
+- Seat selection by users
+- Store selected seats in the database
+- Prevent booking the same seat twice
+- Show list of purchased seats
+- Simple and user-friendly interface
 
-Technologies Used
-Frontend: HTML, CSS, JavaScript
-Backend: Python (Flask / Django – optional)
-Database: SQLite / MySQL (optional)
-Version Control: Git & GitHub
-
-Future Enhancements
-Online payment integration
-Seat selection with visual layout
-Email/SMS ticket confirmation
-Recommendation system for events
-Mobile-friendly interface
+Technology Stack
+- Frontend: HTML, CSS
+- Backend: Python (Flask)
+- Database: SQLite
+- Version Control: Git & GitHub
+- Tools: Pycharm
 
 
+## 📂 Project Structure
